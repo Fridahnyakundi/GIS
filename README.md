@@ -1,2 +1,2 @@
-# GIS
-This a repository for all my GIS work.
+# ESS 144
+Publish my online map
